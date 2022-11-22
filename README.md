@@ -2,7 +2,7 @@
 
 ## Contents
 
-- Modern Data Stack
+- [Modern Data Stack](/study-notes/concepts.md)
   - [What a "Data Stack" is and the role of "modern"](/study-notes/concepts.md)
   - [The benefits of Modern Data Stack](/study-notes/concepts.md)
 
