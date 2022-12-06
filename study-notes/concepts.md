@@ -7,7 +7,7 @@ A Data Stack is a set, combination of tools used to facilitate the entire data p
 </p>
 
 <p align="justify">
-The thing is that lately the data stack is envolving, moving from on-premise to cloud and shifting from ETL to ELT. That means a Modern Data Stack has some extra features: speed, modularized, and  
+The thing is that lately the data stack is envolving, moving from on-premise to cloud, shifting from ETL to ELT, and requiring less technical configuration by the data engineer. That means a Modern Data Stack has some extra features: higher speed, modularization, and lower cost.
 </p>
 
 <p align="justify">
