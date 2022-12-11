@@ -9,3 +9,9 @@ This repo contains the project developed in the <a href="https://stackacademy.co
 The project consists of (_TODO_)
 </p>
 
+## Contents
+- Problem Statement
+- The Data
+- Used Tools
+- Conclusion
+- Lessons Learned
