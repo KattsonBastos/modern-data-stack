@@ -2,6 +2,11 @@
 
 ## What a "Data Stack" is and the role of "modern"
 
+<p align="center">
+  <img src="../images/mds.png" >
+</p>
+
+
 <p align="justify">
 A Data Stack is a set, combination of tools used to facilitate the entire data pipeline, that is, data collection, data processing, data management, data storage, and data accessing. 
 </p>
