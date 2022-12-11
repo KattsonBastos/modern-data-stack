@@ -1,5 +1,13 @@
 #!/bin/bash
 
-echo "Cloning Airbyte branch.."
+echo "Starting Airbyte.."
 
-git clone -b modern-data-stack https://github.com/KattsonBastos/airbyte
+docker-compose -f ./airbyte/docker-compose.yml up -d
+
+echo "Starting Airflow.."
+
+docker-compose -f ./airflow/docker-compose.yml up -d
+
+echo "Starting Metabase.."
+
+docker-compose -f ./metabase/docker-compose.yml up -d
