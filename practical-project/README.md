@@ -10,8 +10,8 @@ The project consists of (_TODO_)
 </p>
 
 ## Contents
-- Problem Statement
-- The Data
-- Used Tools
-- Conclusion
-- Lessons Learned
+- Problem Statement (_TODO_)
+- The Data (_TODO_)
+- Used Tools (_TODO_)
+- Conclusion (_TODO_)
+- Lessons Learned (_TODO_)
