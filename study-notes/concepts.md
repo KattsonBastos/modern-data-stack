@@ -1,4 +1,4 @@
-# Modern Data Stack Concepts
+# Data Engineering with Modern Data Stack
 
 ## What a "Data Stack" is and the role of "modern"
 
