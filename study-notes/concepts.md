@@ -1,10 +1,12 @@
 # Data Engineering with Modern Data Stack
 
-## What a "Data Stack" is and the role of "modern"
-
 <p align="center">
   <img src="../images/mds.png" >
 </p>
+
+## What a "Data Stack" is and the role of "modern"
+
+
 
 
 <p align="justify">
