@@ -11,6 +11,7 @@ This repo contains the project developed in the <a href="https://stackacademy.co
 - The Data
 - Solution Architecture
 - Conclusion (_TODO_)
+- Next Steps (_TODO_)
 - Lessons Learned (_TODO_)
 
 ## Problem Statement
@@ -68,5 +69,7 @@ We'll end up with the following tools for each step of our workflow:
 - **Snowflake for Data Warehousing**: since it is in cloud and manage, so we don't have to worry about the infrastructure management.
 
 ## Conclusion (_TODO_)
+
+## Next Steps (_TODO_)
 
 ## Lessons Learned (_TODO_)
