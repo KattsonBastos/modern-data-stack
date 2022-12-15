@@ -70,6 +70,10 @@ We'll end up with the following tools for each step of our workflow:
 
 ## Conclusion (_TODO_)
 
-## Next Steps (_TODO_)
+## Next Step
+
+<p align="justify">
+Two key resources of this project are still running on-premise: Airbyte and Aiflow containers. In this way, the next step is to deploy those containers to cloud.
+</p>
 
 ## Lessons Learned (_TODO_)
